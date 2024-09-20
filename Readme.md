@@ -14,7 +14,7 @@ The data used was obtained from Google Takeout. To download your YouTube Watch H
    Pick ".zip" as the file type and a size limit (2GB is plenty for watch history).
 4. Export Data: Click "Create export" to initiate the process. Google will prepare the export, which might take some time depending on the amount of data.
    Once ready, you’ll receive a link via email to download the file.
-   5.Download Your Data: Open the email from Google and click on the link to download your YouTube watch history.
+5.Download Your Data: Open the email from Google and click on the link to download your YouTube watch history.
    Unzip the file and look for a file like `watch-history.html`.
 
 > **NB:** Ensure that the `watch-history.html` is in the same directory as the Python scripts you might use later to analyze it.
