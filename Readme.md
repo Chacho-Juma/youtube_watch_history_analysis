@@ -21,7 +21,7 @@ The data used was obtained from Google Takeout. To download your YouTube Watch H
 
 ## Challenges
 
-** Data Quality and Completeness**
+**Data Quality and Completeness**
 Missing or Inaccurate Data: YouTube's data collection methods may not always be perfect, leading to missing or inaccurate values.
 Watch History Limitations: Factors like device changes, account deletions, or several accounts can affect the completeness of watch history data.
 
