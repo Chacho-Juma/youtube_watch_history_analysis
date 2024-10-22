@@ -26,6 +26,12 @@ The data used was obtained from Google Takeout. To download your YouTube Watch H
 - Missing or Inaccurate Data: YouTube's data collection methods may not always be perfect, leading to missing or inaccurate values.
 - Watch History Limitations: Factors like device changes, account deletions, or several accounts can affect the completeness of watch history data.
 
+## Quick links
+Read more about this Project on:-
+-   [Medium](https://medium.com/@ochiengchurchil75/personal-youtube-and-youtube-music-analysis-a3a53b8666cd)
+-   [Kaggle](https://www.kaggle.com/code/churchiljuma/youtube-watch-history-analysis)
+
+
 ## In Progress
 
 - [ ] Create a Script that analyses the YouTube Watch History.
